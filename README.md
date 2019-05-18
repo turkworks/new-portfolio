@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Build A Portfolio Website
 
 index.html
