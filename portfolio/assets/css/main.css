@@ -192,7 +192,7 @@ body {
 }
 
 #cap-button {
-  margin-top: 20px;
+  margin-top: 15px;
 }
 
 body.is-preload *,
@@ -2980,6 +2980,7 @@ ul.icons {
   cursor: default;
   list-style: none;
   padding-left: 0;
+  display: none;
 }
 
 ul.icons li {
